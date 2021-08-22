@@ -37,3 +37,10 @@ nav{
     color: #fff;
     margin-left: 40px;
 }
+
+.nav-links .btn{
+    background: #fff;
+    color: #000;
+    padding: 8px 30px;
+    border-radius: 4px;
+}
